@@ -1,0 +1,2 @@
+CampusX Repo Link: https://github.com/campusx-official/udemy-web-scraping-course
+MDN Docs for web dev: https://developer.mozilla.org/en-US/docs/Learn_web_development
